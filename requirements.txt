@@ -1,0 +1,7 @@
+requests==2.8.1
+sopel
+ipython
+iso8601
+sqlalchemy
+alembic
+psycopg2
