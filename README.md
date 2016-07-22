@@ -180,4 +180,3 @@ Name | Purpose | Example
 --- | --- | ---
 drilllist | The name of the JSON file containing the drill lists | drills.json
 
-"# here" 
