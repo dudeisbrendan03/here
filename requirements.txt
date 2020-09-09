@@ -1,4 +1,4 @@
-requests==2.8.1
+requests==2.20.0
 sopel
 ipython
 iso8601
